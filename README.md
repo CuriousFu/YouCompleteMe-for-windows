@@ -1,7 +1,5 @@
 # YouCompleteMe-for-windows
-<img src="./Images/vim.png" width="200px" height="200px" /> <img src="./Images/green-right-arrow.png" width="200px" height="200px" /> <img src="./Images/windows.png" width="200px" height="200px" />  
-
-this is a compiled youcompleteme for windows
+This is a compiled youcompleteme for windows.
 ### Youcomplete-python3.5 
 compiled  by
 - Visual Studio 2015 on windows 10 x64, 
