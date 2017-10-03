@@ -9,4 +9,9 @@ compiled  by
 - Visual Studio 2017 on windows 10 x64, 
 - python 3.6
 
-I download vim 8.0 from https://bintray.com/micbou/generic/vi4
+### how to use 
+- just download it to your gvim plugins foders,
+- then replace the youcomplete with it.
+
+
+you can download the vim 8.0 from https://bintray.com/micbou/generic/vi4
