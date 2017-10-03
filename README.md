@@ -1,5 +1,5 @@
 # YouCompleteMe-for-windows
-### this is a compiled youcompleteme for windows
+this is a compiled youcompleteme for windows
 ### Youcomplete-python3.5 
 compiled  by
 - Visual Studio 2015 on windows 10 x64, 
