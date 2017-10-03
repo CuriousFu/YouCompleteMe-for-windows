@@ -7,7 +7,9 @@ compiled  by
 ### Youcomplete-python3.6   
  compiled  by
 - Visual Studio 2017 on windows 10 x64, 
-- python 3.6  
+- python 3.6  
+
+---
 ![](https://github.com/CuriousFu/YouCompleteMe-for-windows/blob/master/screenshots/1.PNG)
 ### how to use 
 - just download it to your gvim plugins foders,
