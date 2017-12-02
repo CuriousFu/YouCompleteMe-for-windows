@@ -18,3 +18,4 @@ compiled  by
 - if you get the startup message like: " youcomplete unavaiable:requires Vim compiled with python..."
 you only need to install python software on you PC and it will disappeared.
 - you can download the compiled gvim/vim 8.0 from https://bintray.com/micbou/generic
+![](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1270472106,119461108&fm=27&gp=0.jpg)
