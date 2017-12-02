@@ -1,4 +1,4 @@
-# YouCompleteMe-for-windows  [![Awesome]
+# YouCompleteMe-for-windows  
 
 This is a compiled youcompleteme for windows.
 ### Youcomplete-python3.5 
