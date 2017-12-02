@@ -1,4 +1,4 @@
-# YouCompleteMe-for-windows![](http://www.vim.org/images/vim_header.gif)
+# YouCompleteMe-for-windows
 
 This is a compiled youcompleteme for windows.
 ### Youcomplete-python3.5 
