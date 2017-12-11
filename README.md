@@ -17,5 +17,5 @@ compiled  by
 - just download it to your gvim plugins foders,
 - then replace the youcomplete with it.
 - if you get the startup message like: " youcomplete unavaiable:requires Vim compiled with python..."
-you only need to install python software on you PC and it will disappeared.
+you only need to install python software on you PC and it will disappear.
 - you can download the compiled gvim/vim 8.0 from https://bintray.com/micbou/generic
