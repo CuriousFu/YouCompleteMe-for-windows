@@ -12,6 +12,7 @@ compiled  by
 
 ---
 ![](https://github.com/CuriousFu/YouCompleteMe-for-windows/blob/master/screenshots/1.PNG)
+![](https://github.com/CuriousFu/YouCompleteMe-for-windows/blob/master/screenshots/4.PNG)
 
 ### how to use 
 - just download it to your gvim plugins foders,
